@@ -1,5 +1,5 @@
 // GoogleCouldMessagingで取得したAPIキーを設定
-const API_KEY = 'AIzaSyDpx5LWS0vpR_PfHJ4tMdWBwV9JR-N4QiE';
+const API_KEY = 'AIzaSyDWYCFI7Wj5OBGNFRig58PAGsv6TwJKZRU';
 
 // GCMのエンドポイントのBaseURL
 const GCM_ENDPOINT = 'https://android.googleapis.com/gcm/send';
